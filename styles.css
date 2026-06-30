@@ -652,3 +652,8 @@ a {
   font-size: 0.8rem;
   color: var(--slate-500);
 }
+
+.btn-white {
+  background: #fff;
+  color: var(--blue-900);
+}
